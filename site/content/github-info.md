@@ -17,3 +17,5 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 - GitHub now provides faster repository insights and updated workflow capabilities.
+- Mona also has a new reference point for workflow ideas: the Awesome Copilot Workflows collection.
+- Keep using the GitHub Blog and Changelog for source-backed updates when the page needs a practical refresh.
